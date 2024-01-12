@@ -53,8 +53,9 @@ The system to be developed is a simulation and recommendation system for Indones
 <a name="documentation"></a>
 
 ## Documentation
-
-![demo](docs/demo.gif)
+<div align="center">
+  <img src="docs/demo.gif" alt="docs"></img>
+</div>
 <div class="row">
   <img src="docs/doc_7.jpg" alt="Landing Page" width="400"></img>
   <img src="docs/doc_6.jpg" alt="Login Page" width="400"></img>
