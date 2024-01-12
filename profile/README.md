@@ -1,5 +1,5 @@
 <h2 align="center">
-  Server-side JurusanKu<br/>
+  JurusanKu<br/>
 </h2>
 <hr>
 
