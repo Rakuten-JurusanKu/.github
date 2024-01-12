@@ -1,4 +1,4 @@
-<h2 align="center">
+d<h2 align="center">
   JurusanKu<br/>
 </h2>
 <hr>
@@ -55,36 +55,19 @@ The system to be developed is a simulation and recommendation system for Indones
 ## Documentation
 
 <div class="row">
-    <div class="column">
-        <img src="docs/doc_7.jpg" alt="Landing Page" style="width:100%">
-    </div>
-    <div class="column">
-        <img src="docs/doc_6.jpg" alt="Login Page" style="width:100%">
-    </div>
+  <img src="docs/doc_7.jpg" alt="Landing Page" width="300"></img>
+  <img src="docs/doc_6.jpg" alt="Login Page" width="300"></img>
 </div>
-
 <div class="row">
-    <div class="column">
-        <img src="docs/doc_5.jpg" alt="Home Page" style="width:100%">
-    </div>
-    <div class="column">
-        <img src="docs/doc_4.jpg" alt="Major Explore" style="width:100%">
-    </div>
+  <img src="docs/doc_5.jpg" alt="Home Page" width="400"></img>
+  <img src="docs/doc_4.jpg" alt="Major Explore" width="400"></img>
 </div>
-
 <div class="row">
-    <div class="column">
-        <img src="docs/doc_3.jpg" alt="Major Explore" style="width:100%">
-    </div>
-    <div class="column">
-        <img src="docs/doc_2.jpg" alt="Course Catalog" style="width:100%">
-    </div>
+  <img src="docs/doc_3.jpg" alt="Major Explore" width="400"></img>
+  <img src="docs/doc_2.jpg" alt="Course Catalog" width="400"></img>
 </div>
-
 <div class="row">
-    <div class="column">
-        <img src="docs/doc_1.jpg" alt="Career Path" style="width:100%">
-    </div>
+  <img src="docs/doc_1.jpg" alt="Career Path" width="400"></img>
 </div>
 
 <a name="setup"></a>
