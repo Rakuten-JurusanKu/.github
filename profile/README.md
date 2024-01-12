@@ -1,4 +1,4 @@
-d<h2 align="center">
+<h2 align="center">
   JurusanKu<br/>
 </h2>
 <hr>
