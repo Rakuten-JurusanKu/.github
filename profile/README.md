@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/-Go-333333?style=flat-square&logo=Go">
   <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
+  <img src="https://img.shields.io/badge/-Flutter-333333?style=flat-square&logo=flutter">
+  <img src="https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart">
 </p>
 
 ## Table of Contents
@@ -46,27 +48,29 @@ The system to be developed is a simulation and recommendation system for Indones
 - pq - version 1.10.9
 - jwt-go - version 3.2.0
 - docker - version 4.22.1
+- flutter - version 3.16.7
 
 <a name="setup"></a>
 
 ## Setup
 You can setup your project by cloning this repository and install the libraries above.
 
+1. Clone `server-JurusanKu`
+2. Install docker to your device
+3. run:
 ```bash
 go get
 ```
-
-<a name="usage"></a>
-
-## Usage
-You can run the server by using the command below.
-
 ```bash
 make db
 ```
 
 ```bash
 make createdb
+```
+
+```bash
+make migrateup
 ```
 
 ```bash
