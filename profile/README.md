@@ -53,13 +53,20 @@ The system to be developed is a simulation and recommendation system for Indones
 <a name="documentation"></a>
 
 ## Documentation
-![landing page](docs/doc_7.jpg)
-![login page](docs/doc_6.jpg)
-![home page](docs/doc_5.jpg)
-![major explore](docs/doc_4.jpg)
-![major explore](docs/doc_3.jpg)
-![course catalog](docs/doc_2.jpg)
-![career path](docs/doc_1.jpg)
+
+<img src="docs/doc_7.jpg" alt="Landing Page" width="400"></img>
+
+<img src="docs/doc_6.jpg" alt="Login Page" width="400"></img>
+
+<img src="docs/doc_5.jpg" alt="Home Page" width="400"></img>
+
+<img src="docs/doc_4.jpg" alt="Major Explore" width="400"></img>
+
+<img src="docs/doc_3.jpg" alt="Major Explore" width="400"></img>
+
+<img src="docs/doc_2.jpg" alt="Course Catalog" width="400"></img>
+
+<img src="docs/doc_1.jpg" alt="Career Path" width="400"></img>
 
 <a name="setup"></a>
 
