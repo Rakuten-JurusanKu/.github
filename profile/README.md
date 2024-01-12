@@ -18,8 +18,8 @@
 - [General Information](#general-information)
 - [Member List](#member-list)
 - [Technologies Used](#technologies-used)
+- [Documentation](#documentation)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Project Status](#project-status)
 - [](#)
 
@@ -50,6 +50,17 @@ The system to be developed is a simulation and recommendation system for Indones
 - docker - version 4.22.1
 - flutter - version 3.16.7
 
+<a name="documentation"></a>
+
+## Documentation
+![landing page](docs/doc_7.jpg)
+![login page](docs/doc_6.jpg)
+![home page](docs/doc_5.jpg)
+![major explore](docs/doc_4.jpg)
+![major explore](docs/doc_3.jpg)
+![course catalog](docs/doc_2.jpg)
+![career path](docs/doc_1.jpg)
+
 <a name="setup"></a>
 
 ## Setup
@@ -76,6 +87,7 @@ make migrateup
 ```bash
 make server
 ```
+
 
 <a name="project-status"> </a>
 
