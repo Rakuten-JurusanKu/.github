@@ -70,11 +70,11 @@ The system to be developed is a simulation and recommendation system for Indones
 </div>
 <div class="row">
   <img src="docs/doc_8.jpg" width="260"></img>
-  <img src="docs/doc_9.png" width="260"></img>
   <img src="docs/doc_10.jpg" width="260"></img>
+  <img src="docs/doc_11.jpg" width="260"></img>
 </div>
 <div class="row">
-  <img src="docs/doc_11.jpg" width="260"></img>
+  <img src="docs/doc_9.png" width="260"></img>
   <img src="docs/doc_12.jpg" width="260"></img>
   <img src="docs/doc_13.png" width="260"></img>
 </div>
