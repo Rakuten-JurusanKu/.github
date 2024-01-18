@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
   <img src="https://img.shields.io/badge/-Flutter-333333?style=flat-square&logo=flutter">
   <img src="https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart">
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat-square&logo=google-cloud">
 </p>
 
 ## Table of Contents
@@ -49,6 +50,7 @@ The system to be developed is a simulation and recommendation system for Indones
 - jwt-go - version 3.2.0
 - docker - version 4.22.1
 - flutter - version 3.16.7
+- Google Cloud Platfrom
 
 <a name="documentation"></a>
 
@@ -57,19 +59,29 @@ The system to be developed is a simulation and recommendation system for Indones
   <img src="docs/demo.gif" alt="docs"></img>
 </div>
 <div class="row">
-  <img src="docs/doc_7.jpg" alt="Landing Page" width="400"></img>
-  <img src="docs/doc_6.jpg" alt="Login Page" width="400"></img>
+  <img src="docs/doc_1.jpg" width="260"></img>
+  <img src="docs/doc_2.jpg" width="260"></img>
+  <img src="docs/doc_3.jpg" width="260"></img>
 </div>
 <div class="row">
-  <img src="docs/doc_5.jpg" alt="Home Page" width="400"></img>
-  <img src="docs/doc_4.jpg" alt="Major Explore" width="400"></img>
+  <img src="docs/doc_4.jpg" width="260"></img>
+  <img src="docs/doc_5.jpg" width="260"></img>
+  <img src="docs/doc_7.jpg" width="260"></img>
 </div>
 <div class="row">
-  <img src="docs/doc_3.jpg" alt="Major Explore" width="400"></img>
-  <img src="docs/doc_2.jpg" alt="Course Catalog" width="400"></img>
+  <img src="docs/doc_8.jpg" width="260"></img>
+  <img src="docs/doc_9.jpg" width="260"></img>
+  <img src="docs/doc_10.jpg" width="260"></img>
 </div>
 <div class="row">
-  <img src="docs/doc_1.jpg" alt="Career Path" width="400"></img>
+  <img src="docs/doc_11.jpg" width="260"></img>
+  <img src="docs/doc_12.jpg" width="260"></img>
+  <img src="docs/doc_13.jpg" width="260"></img>
+</div>
+<div class="row">
+  <img src="docs/doc_14.jpg" width="260"></img>
+  <img src="docs/doc_15.jpg" width="260"></img>
+  <img src="docs/doc_16.jpg" width="260"></img>
 </div>
 
 <a name="setup"></a>
@@ -79,24 +91,11 @@ You can setup your project by cloning this repository and install the libraries 
 
 1. Clone `server-JurusanKu`
 2. Install docker to your device
-3. run:
-```bash
-go get
-```
-```bash
-make db
-```
+3. request `.env` files from Rakuten team 
+4. run:
 
 ```bash
-make createdb
-```
-
-```bash
-make migrateup
-```
-
-```bash
-make server
+docker compose up --build
 ```
 
 
